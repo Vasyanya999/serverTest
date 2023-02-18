@@ -510,5 +510,313 @@
         }
       ]
     }
+  ],
+  "games": [
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c9b50a63a60c36e44fefbe5f12cac7d9c2257bd756ed32dd179ae763ee1a2d9f/63f0d424/oqkPnf7J0xXP7QYowMeK0VsJTkZRdDJktIJLkgqEPMV7retajbvzzR2fY89OpzzNUxxhX3hfb84m0psAYF6fxA%3D%3D?uid=0&filename=forza_5.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Forza Horizon 5",
+      "genres": [
+        "Гонки",
+        "Симулятор",
+        "Открытый мир"
+      ],
+      "price": 2343,
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "id": 1,
+      "description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!"
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/d769dc819e6c329dd3ef590c4cd05580659c088332bc96478ecd7e053e824693/63f0d482/JTbiw_1qlO6RTYqVZ6cH5VsJTkZRdDJktIJLkgqEPMXcmklPqoJUz47PSfVQEoVMehC-6GrcjqquHfTcVDHtQw%3D%3D?uid=0&filename=battlefield_2042.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Battlefield 2042",
+      "genres": [
+        "Экшен",
+        "Шутер",
+        "Война"
+      ],
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "price": 2433,
+      "id": 2,
+      "description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/7f70015c8dd6bbfcfa74aa3a84cb26af20589148f3d0aa8df05007dc30bd25ef/63f0d4a7/DC6zOlv9jlHkBo_mYQKj7lsJTkZRdDJktIJLkgqEPMV_bjOsmJzW75AzyhrnoR6BIomSoFqeuJn_8V3ZdNOv1w%3D%3D?uid=0&filename=life_is_strange_true_colors.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Life is Strange True Colors",
+      "genres": [
+        "Глубокий сюжет",
+        "Протагонистка"
+      ],
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "price": 3021,
+      "id": 3,
+      "description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/a16916c3cc3cb73b9ba6673780b833acf986829b6cb9eef6c8bf890094b16c69/63f0d4c8/CzDnftTfj0wrq145XtpEeBufpm8v9DVKT8dsxJF3-z4HF6Bhp6_uRsRrbvt0iHZM7shX0gZY17Yog70ou6FoPw%3D%3D?uid=0&filename=gta_v.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Открытый мир",
+        "Экшен"
+      ],
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "price": 789,
+      "id": 4,
+      "description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/4b1ebb7e0902da30d7b504aa98813ea62c2fe097958476c84d811eaa1b84bc93/63f0d4f1/0pYtLxRcrumseLecjfc7UFsJTkZRdDJktIJLkgqEPMXF65954hZDtk0IMJbaXsz2KzphCwqcYaWikVPOLEi5Ww%3D%3D?uid=0&filename=rainbow_siege.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": [
+        "Тактика",
+        "Шутер"
+      ],
+      "price": 982,
+      "id": 5,
+      "description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/60dde6de23245e961783c73b8ce77a9cb6bfae89aee86a3ce7f6233c6bb6d0a9/63f0d514/ryC7Am4RKtOOPvG2mjyYu1sJTkZRdDJktIJLkgqEPMWcic9u4_tctoVCRmXGYNq8weYeSq9gFroTwB68MM7unA%3D%3D?uid=0&filename=assassins_creed_valhalla.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Assassin’s Creed Valhalla",
+      "genres": [
+        "Паркур",
+        "РПГ",
+        "Открытый мир"
+      ],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 6,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/45b52e1182922811af2de808d93e9e3ba241b926ffd438d7b969d299fbcd2a50/63f0d9d9/qompvEvKJI2mLdEpot5GqPCKbFNpJBNysnq8q7gqF0JwVV7WmK7oaS4hFIXG33oLo8hasRd0r5eTLpJ-6eFrXg%3D%3D?uid=0&filename=Shadow_Warrior_2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Shadow Warrior 2",
+      "genres": [
+        "Экшен",
+        "Ниндзя",
+        "Шутер"
+      ],
+      "video": "https://www.youtube.com/embed/9UL-BfQiNic",
+      "price": 1100,
+      "id": 7,
+      "description": "Shadow Warrior 2 — потрясающее продолжение оригинального шутера от первого лица, созданное компанией Flying Wild Hog."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c2ea769ed01449a0457772d286dff57605da70e1ceda8cbf0e3ca8a42cd51763/63f0d9f6/TFEm4QTA_nz_nvzfRUuaVp0zzCx4nSpv-tVzwlQSu-KJs1IWqgZqmU8ww_AfuGneQNTmUhpIu98TcA5YoAcXAg%3D%3D?uid=0&filename=PUBG.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "PUBG: BATTLEGROUNDS",
+      "genres": [
+        "Экшен",
+        "Выживание",
+        "Шутер",
+        "королевская битва"
+      ],
+      "video": "https://www.youtube.com/embed/4eoCIuh0YsE",
+      "price": 1499,
+      "id": 8,
+      "description": "Высаживайтесь в стратегически важных местах, добывайте оружие и припасы и постарайтесь выжить и остаться последней командой на одном из многочисленных полей боя."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c9b50a63a60c36e44fefbe5f12cac7d9c2257bd756ed32dd179ae763ee1a2d9f/63f0d424/oqkPnf7J0xXP7QYowMeK0VsJTkZRdDJktIJLkgqEPMV7retajbvzzR2fY89OpzzNUxxhX3hfb84m0psAYF6fxA%3D%3D?uid=0&filename=forza_5.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Forza Horizon 5",
+      "genres": [
+        "Гонки",
+        "Симулятор",
+        "Открытый мир"
+      ],
+      "price": 2343,
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "id": 9,
+      "description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!"
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/d769dc819e6c329dd3ef590c4cd05580659c088332bc96478ecd7e053e824693/63f0d482/JTbiw_1qlO6RTYqVZ6cH5VsJTkZRdDJktIJLkgqEPMXcmklPqoJUz47PSfVQEoVMehC-6GrcjqquHfTcVDHtQw%3D%3D?uid=0&filename=battlefield_2042.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Battlefield 2042",
+      "genres": [
+        "Экшен",
+        "Шутер",
+        "Война"
+      ],
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "price": 2433,
+      "id": 10,
+      "description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/7f70015c8dd6bbfcfa74aa3a84cb26af20589148f3d0aa8df05007dc30bd25ef/63f0d4a7/DC6zOlv9jlHkBo_mYQKj7lsJTkZRdDJktIJLkgqEPMV_bjOsmJzW75AzyhrnoR6BIomSoFqeuJn_8V3ZdNOv1w%3D%3D?uid=0&filename=life_is_strange_true_colors.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Life is Strange True Colors",
+      "genres": [
+        "Глубокий сюжет",
+        "Протагонистка"
+      ],
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "price": 3021,
+      "id": 11,
+      "description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/a16916c3cc3cb73b9ba6673780b833acf986829b6cb9eef6c8bf890094b16c69/63f0d4c8/CzDnftTfj0wrq145XtpEeBufpm8v9DVKT8dsxJF3-z4HF6Bhp6_uRsRrbvt0iHZM7shX0gZY17Yog70ou6FoPw%3D%3D?uid=0&filename=gta_v.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Открытый мир",
+        "Экшен"
+      ],
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "price": 789,
+      "id": 12,
+      "description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/4b1ebb7e0902da30d7b504aa98813ea62c2fe097958476c84d811eaa1b84bc93/63f0d4f1/0pYtLxRcrumseLecjfc7UFsJTkZRdDJktIJLkgqEPMXF65954hZDtk0IMJbaXsz2KzphCwqcYaWikVPOLEi5Ww%3D%3D?uid=0&filename=rainbow_siege.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": [
+        "Тактика",
+        "Шутер"
+      ],
+      "price": 982,
+      "id": 13,
+      "description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/60dde6de23245e961783c73b8ce77a9cb6bfae89aee86a3ce7f6233c6bb6d0a9/63f0d514/ryC7Am4RKtOOPvG2mjyYu1sJTkZRdDJktIJLkgqEPMWcic9u4_tctoVCRmXGYNq8weYeSq9gFroTwB68MM7unA%3D%3D?uid=0&filename=assassins_creed_valhalla.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Assassin’s Creed Valhalla",
+      "genres": [
+        "Паркур",
+        "РПГ",
+        "Открытый мир"
+      ],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 14,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/45b52e1182922811af2de808d93e9e3ba241b926ffd438d7b969d299fbcd2a50/63f0d9d9/qompvEvKJI2mLdEpot5GqPCKbFNpJBNysnq8q7gqF0JwVV7WmK7oaS4hFIXG33oLo8hasRd0r5eTLpJ-6eFrXg%3D%3D?uid=0&filename=Shadow_Warrior_2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Shadow Warrior 2",
+      "genres": [
+        "Экшен",
+        "Ниндзя",
+        "Шутер"
+      ],
+      "video": "https://www.youtube.com/embed/9UL-BfQiNic",
+      "price": 1100,
+      "id": 15,
+      "description": "Shadow Warrior 2 — потрясающее продолжение оригинального шутера от первого лица, созданное компанией Flying Wild Hog."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c2ea769ed01449a0457772d286dff57605da70e1ceda8cbf0e3ca8a42cd51763/63f0d9f6/TFEm4QTA_nz_nvzfRUuaVp0zzCx4nSpv-tVzwlQSu-KJs1IWqgZqmU8ww_AfuGneQNTmUhpIu98TcA5YoAcXAg%3D%3D?uid=0&filename=PUBG.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "PUBG: BATTLEGROUNDS",
+      "genres": [
+        "Экшен",
+        "Выживание",
+        "Шутер",
+        "королевская битва"
+      ],
+      "video": "https://www.youtube.com/embed/4eoCIuh0YsE",
+      "price": 1499,
+      "id": 16,
+      "description": "Высаживайтесь в стратегически важных местах, добывайте оружие и припасы и постарайтесь выжить и остаться последней командой на одном из многочисленных полей боя."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c9b50a63a60c36e44fefbe5f12cac7d9c2257bd756ed32dd179ae763ee1a2d9f/63f0d424/oqkPnf7J0xXP7QYowMeK0VsJTkZRdDJktIJLkgqEPMV7retajbvzzR2fY89OpzzNUxxhX3hfb84m0psAYF6fxA%3D%3D?uid=0&filename=forza_5.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Forza Horizon 5",
+      "genres": [
+        "Гонки",
+        "Симулятор",
+        "Открытый мир"
+      ],
+      "price": 2343,
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "id": 17,
+      "description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!"
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/d769dc819e6c329dd3ef590c4cd05580659c088332bc96478ecd7e053e824693/63f0d482/JTbiw_1qlO6RTYqVZ6cH5VsJTkZRdDJktIJLkgqEPMXcmklPqoJUz47PSfVQEoVMehC-6GrcjqquHfTcVDHtQw%3D%3D?uid=0&filename=battlefield_2042.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Battlefield 2042",
+      "genres": [
+        "Экшен",
+        "Шутер",
+        "Война"
+      ],
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "price": 2433,
+      "id": 18,
+      "description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/7f70015c8dd6bbfcfa74aa3a84cb26af20589148f3d0aa8df05007dc30bd25ef/63f0d4a7/DC6zOlv9jlHkBo_mYQKj7lsJTkZRdDJktIJLkgqEPMV_bjOsmJzW75AzyhrnoR6BIomSoFqeuJn_8V3ZdNOv1w%3D%3D?uid=0&filename=life_is_strange_true_colors.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Life is Strange True Colors",
+      "genres": [
+        "Глубокий сюжет",
+        "Протагонистка"
+      ],
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "price": 3021,
+      "id": 24,
+      "description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/a16916c3cc3cb73b9ba6673780b833acf986829b6cb9eef6c8bf890094b16c69/63f0d4c8/CzDnftTfj0wrq145XtpEeBufpm8v9DVKT8dsxJF3-z4HF6Bhp6_uRsRrbvt0iHZM7shX0gZY17Yog70ou6FoPw%3D%3D?uid=0&filename=gta_v.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Открытый мир",
+        "Экшен"
+      ],
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "price": 789,
+      "id": 19,
+      "description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/4b1ebb7e0902da30d7b504aa98813ea62c2fe097958476c84d811eaa1b84bc93/63f0d4f1/0pYtLxRcrumseLecjfc7UFsJTkZRdDJktIJLkgqEPMXF65954hZDtk0IMJbaXsz2KzphCwqcYaWikVPOLEi5Ww%3D%3D?uid=0&filename=rainbow_siege.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": [
+        "Тактика",
+        "Шутер"
+      ],
+      "price": 982,
+      "id": 20,
+      "description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/60dde6de23245e961783c73b8ce77a9cb6bfae89aee86a3ce7f6233c6bb6d0a9/63f0d514/ryC7Am4RKtOOPvG2mjyYu1sJTkZRdDJktIJLkgqEPMWcic9u4_tctoVCRmXGYNq8weYeSq9gFroTwB68MM7unA%3D%3D?uid=0&filename=assassins_creed_valhalla.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Assassin’s Creed Valhalla",
+      "genres": [
+        "Паркур",
+        "РПГ",
+        "Открытый мир"
+      ],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 21,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/45b52e1182922811af2de808d93e9e3ba241b926ffd438d7b969d299fbcd2a50/63f0d9d9/qompvEvKJI2mLdEpot5GqPCKbFNpJBNysnq8q7gqF0JwVV7WmK7oaS4hFIXG33oLo8hasRd0r5eTLpJ-6eFrXg%3D%3D?uid=0&filename=Shadow_Warrior_2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "Shadow Warrior 2",
+      "genres": [
+        "Экшен",
+        "Ниндзя",
+        "Шутер"
+      ],
+      "video": "https://www.youtube.com/embed/9UL-BfQiNic",
+      "price": 1100,
+      "id": 22,
+      "description": "Shadow Warrior 2 — потрясающее продолжение оригинального шутера от первого лица, созданное компанией Flying Wild Hog."
+    },
+    {
+      "image": "https://downloader.disk.yandex.ru/preview/c2ea769ed01449a0457772d286dff57605da70e1ceda8cbf0e3ca8a42cd51763/63f0d9f6/TFEm4QTA_nz_nvzfRUuaVp0zzCx4nSpv-tVzwlQSu-KJs1IWqgZqmU8ww_AfuGneQNTmUhpIu98TcA5YoAcXAg%3D%3D?uid=0&filename=PUBG.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "title": "PUBG: BATTLEGROUNDS",
+      "genres": [
+        "Экшен",
+        "Выживание",
+        "Шутер",
+        "королевская битва"
+      ],
+      "video": "https://www.youtube.com/embed/4eoCIuh0YsE",
+      "price": 1499,
+      "id": 23,
+      "description": "Высаживайтесь в стратегически важных местах, добывайте оружие и припасы и постарайтесь выжить и остаться последней командой на одном из многочисленных полей боя."
+    }
   ]
 }
